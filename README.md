@@ -3,7 +3,7 @@
 ## Sup, these were some scripts I wrote to extract words from Kiko's Fortune Cookies. There are also all of Kiko's tweets in JSON that I got. Those scripts aren't in here though. Maybe later
 
 ## How it works
-1. Fetch the metadata to ge the token jpg url
+1. Fetch the metadata to get the token jpg url
 2. Download the image locally
 
 ![1](/docs/1.png)
