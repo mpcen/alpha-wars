@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-tesseract-ocr": "^2.2.1",
+    "sharp": "^0.30.7",
+    "tesseract-ocr": "^1.0.0"
+  }
+}
